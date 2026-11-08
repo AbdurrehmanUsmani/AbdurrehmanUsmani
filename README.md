@@ -6,10 +6,10 @@ I like understanding systems end to end, from circuit analysis and network desig
 
 ### Tech
 
-**Languages:** C · Python · JavaScript
-**Networking:** Cisco Packet Tracer · network design
-**Engineering:** circuit analysis · engineering mathematics
-**Tools:** Git · GCC · IntelliJ IDEA
+- **Languages:** C · Python · JavaScript
+- **Networking:** Cisco Packet Tracer · network design
+- **Engineering:** circuit analysis · engineering mathematics
+- **Tools:** Git · GCC · IntelliJ IDEA
 
 ### Projects
 
